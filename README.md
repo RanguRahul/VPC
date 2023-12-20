@@ -23,7 +23,9 @@ VPC allows you to customize your networking configuration. VPC is a network that
 VPC Architecture :
 
 
-![architecture-of-vpc](https://github.com/RanguRahul/VPC/assets/120587828/2fbb522e-0822-46e5-a409-375e985df580) || ![VPC 1](https://github.com/RanguRahul/VPC/assets/120587828/41e910b5-9e31-4237-9ebc-baaf2eee7e3b)
+![architecture-of-vpc](https://github.com/RanguRahul/VPC/assets/120587828/2fbb522e-0822-46e5-a409-375e985df580) 
+
+![VPC 1](https://github.com/RanguRahul/VPC/assets/120587828/41e910b5-9e31-4237-9ebc-baaf2eee7e3b)
 
 
 
