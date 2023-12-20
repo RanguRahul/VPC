@@ -1,5 +1,6 @@
 # VPC
 Virtual Private Cloud
+_________________________________________________________________________________________________________________________________________________________________
 
 VPC allows you to customize your networking configuration. VPC is a network that is logically isolated from other network in the cloud. It allows you to have your own IP address range, subnets, internet gateways, NAT gateways and security groups.  
 
@@ -22,7 +23,8 @@ VPC allows you to customize your networking configuration. VPC is a network that
 VPC Architecture :
 
 
-![architecture-of-vpc](https://github.com/RanguRahul/VPC/assets/120587828/2fbb522e-0822-46e5-a409-375e985df580)
+![architecture-of-vpc](https://github.com/RanguRahul/VPC/assets/120587828/2fbb522e-0822-46e5-a409-375e985df580) || ![VPC 1](https://github.com/RanguRahul/VPC/assets/120587828/41e910b5-9e31-4237-9ebc-baaf2eee7e3b)
+
 
 
 Components of VPC:
@@ -43,10 +45,9 @@ G. Peering Connectors
 
 H. Elastic IP
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
  
 Types of VPC:
+_________________________________________________________________________________________________________________________________________________________________
 
 VPC is of 2 types:
 
@@ -72,7 +73,7 @@ VPC is of 2 types:
 
                ➢ It doesn’t have an internet gateway by default, one needs to be created if needed.
 
-Creating your own custom VPC :
+Creating your own custom VPC 
 
  
 
