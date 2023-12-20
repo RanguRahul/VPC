@@ -47,34 +47,40 @@ G. Peering Connectors
 H. Elastic IP
 
 
-
-# Types of VPC:
+# Types of VPC
 
 
 VPC is of 2 types:  
 
 
-                                 i. Default VPC
+i. Default VPC
                                  
-                                 2. Custom VPC
+2. Custom VPC
+   
 
 1). Default VPC:
 
-              ➢ Created in each AWS region when an AWS account is created.
+  ➢ Created in each AWS region when an AWS account is created.
 
-              ➢ Has default CIDR, security group, NACL and route table settings.
+  ➢ Has default CIDR, security group, NACL and route table settings.
 
-              ➢ Has an internet gateway by default.
+  ➢ Has an internet gateway by default.
 
 2). Custom VPC:
 
-               ➢ It is a VPC and AWS account owner creates.
-               
-               ➢ AWS user creating the Custom VPC can decide the CIDR.
+  ➢ It is a VPC and AWS account owner creates.
+                 
+  ➢ AWS user creating the Custom VPC can decide the CIDR.
 
-               ➢ It has its own default security group, NACL and route tables.
+  ➢ It has its own default security group, NACL and route tables.
 
-               ➢ It doesn’t have an internet gateway by default, one needs to be created if needed.
+  ➢ It doesn’t have an internet gateway by default, one needs to be created if needed.
+
+
+
+
+ 
+
 
  
 
