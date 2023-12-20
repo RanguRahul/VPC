@@ -46,7 +46,6 @@ F. Virtual Private Gateway
 G. Peering Connectors
 
 H. Elastic IP
-
  
 Types of VPC:
 
@@ -67,7 +66,7 @@ VPC is of 2 types:
 2). Custom VPC:
 
                ➢ It is a VPC and AWS account owner creates.
-
+               
                ➢ AWS user creating the Custom VPC can decide the CIDR.
 
                ➢ It has its own default security group, NACL and route tables.
