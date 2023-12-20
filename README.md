@@ -50,8 +50,10 @@ H. Elastic IP
  
 Types of VPC:
 
-VPC is of 2 types:          
+VPC is of 2 types:    
+
                                  i. Default VPC
+                                 
                                  2. Custom VPC
 
 1). Default VPC:
