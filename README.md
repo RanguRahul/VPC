@@ -1,6 +1,4 @@
-# VPC
-Virtual Private Cloud
-_________________________________________________________________________________________________________________________________________________________________
+# VPC (Virtual Private Cloud)
 
 VPC allows you to customize your networking configuration. VPC is a network that is logically isolated from other network in the cloud. It allows you to have your own IP address range, subnets, internet gateways, NAT gateways and security groups.  
 
@@ -21,6 +19,7 @@ VPC allows you to customize your networking configuration. VPC is a network that
 ➢ The different subnets within a VPC cannot overlap.
 
 VPC Architecture :
+----------------
 
 
 ![architecture-of-vpc](https://github.com/RanguRahul/VPC/assets/120587828/2fbb522e-0822-46e5-a409-375e985df580) 
@@ -29,7 +28,7 @@ VPC Architecture :
 
 
 
-Components of VPC:
+# Components of VPC:
 
 A. CIDR and IP address subnets
 
@@ -46,10 +45,14 @@ F. Virtual Private Gateway
 G. Peering Connectors
 
 H. Elastic IP
- 
-Types of VPC:
 
-VPC is of 2 types:    
+
+
+# Types of VPC:
+
+
+VPC is of 2 types:  
+
 
                                  i. Default VPC
                                  
