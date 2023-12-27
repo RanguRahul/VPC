@@ -22,7 +22,8 @@ VPC Architecture :
 ----------------
 
 
-![architecture-of-vpc](https://github.com/RanguRahul/VPC/assets/120587828/2fbb522e-0822-46e5-a409-375e985df580) 
+![architecture-of-vpc](https://github.com/RanguRahul/VPC/assets/120587828/2fbb522e-0822-46e5-a409-375e985df580) ![vpc4](https://github.com/RanguRahul/VPC/assets/120587828/3dfb1bff-7cc8-465e-8f7e-1e8908205d30)
+
 
 ![VPC 1](https://github.com/RanguRahul/VPC/assets/120587828/41e910b5-9e31-4237-9ebc-baaf2eee7e3b)
 
