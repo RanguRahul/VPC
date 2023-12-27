@@ -54,7 +54,7 @@ H. Elastic IP
 VPC is of 2 types:  
 
 
-i. Default VPC
+1. Default VPC
                                  
 2. Custom VPC
    
